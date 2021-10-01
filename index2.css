@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(250, 248, 250);
+    text-align: center;
+}
+
+.body-text{
+
+    background-color:rgb(252, 251, 249);
+    padding: 50px;
+}
+.body-text p{
+    background-color: tomato;
+    color: rgb(250, 247, 246);
+}
+ol{
+    list-style-type: upper-alpha;
+    background-color: chartreuse;
+    list-style-position: inside;
+}
+
+ol li{
+    background-color: cyan;
+    margin-bottom: 10px;
+    color: red;
+}
+
+.redbox{
+    height: 100px;
+width: 500px;
+background-color: rgba(255,0,0,.50);
+float: left;
+}
+
+.bluebox{
+height: 100px;
+width: 500px;
+background-color: rgba(0,155,255,1);
+float: right;
+}
